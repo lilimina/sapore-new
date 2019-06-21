@@ -1,0 +1,55 @@
+.carousel,.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item,.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
+
+.logo {
+    width: 206px;
+  }
+
+.navbar {
+    /* background-color: rgb(3, 0, 0) !important; */
+    padding: 0px !important;
+    margin: 0px !important;   
+ }
+
+ .top-nav-collapse {
+    background-color: rgb(3, 0, 0) !important; 
+ }
+
+ /* .nav-link {
+     color: black !important;
+ } */
+
+ .btn {
+     border-radius: 2rem;
+ }
+
+ .btn-order {
+    margin-top: 200px;
+ }
+
+ .hand {
+     width: 200px;
+ }
+
+ .delivery {
+    padding: 5px;
+    width: 80px;
+}
+
+footer {
+    background-color: rgb(3, 0, 0) !important; 
+}
+
+.order-delivery {
+    font-weight: bold;
+}
+
+h6 {
+    font-weight: bold !important;
+}
+ /* .carousel-inner  {
+     height: 820px !important;
+ }
+
+ .carousel-indicators {
+     bottom: -80px !important;
+ } */
