@@ -1,4 +1,19 @@
-.carousel,.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item,.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
+.carousel,.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item,.view,body,html
+{
+    height:100%
+}
+.navbar{
+    background-color:rgba(0,0,0,.2)
+}
+
+.page-footer,.top-nav-collapse{
+    background-color:rgb(0, 4, 10)
+
+}
+
+@media only screen and (max-width:768px){
+    .navbar{background-color:rgb(1, 5, 14)
+}}
 
 .logo {
     width: 206px;
@@ -50,6 +65,7 @@ h6 {
 .buttons {
     color: black !important;
     border-color: black !important;
+    border-width: 0.05em !important;
 }
 
 hr.style-eight {
@@ -69,6 +85,8 @@ hr.style-eight:after {
     padding: 0 0.25em;
     background: white;
 }
+
+
  /* .carousel-inner  {
      height: 820px !important;
  }
